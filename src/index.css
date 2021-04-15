@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.app {
+  background-image: url('assets/mer.jpg');
+  background-size: cover;
+  background-position: bottom;
+  transition: 0.4 ease-out;
+}
+.app.rain {
+  background-image: url('assets/pluie.jpg');
+}
+
+.logo {
+  display: flex;
+  background-color: white;
+  padding: 1rem;
+  top: 0;
+}
+.logo img {
+  width: 55px;
+  /* padding-right: 1rem; */
+}
+.logoTitle {
+  padding-top: 0.7rem;
+  font-family: 'Courgette', cursive;
+  /* font-family: 'Josefin Sans', sans-serif; */
+  /* font-family: 'Montserrat Alternates', sans-serif; */
+  /* font-family: 'Quicksand', sans-serif; */
+  /* font-family: 'Sacramento', cursive; */
+  /* font-family: 'Train One', cursive; */
+}
+
+main {
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.searchBox {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1rem;
+}
+.searchBar {
+  border-radius: 25px;
+  border: white;
+  padding: 0.5rem;
+  width: 80%;
+}
+.searchIcon {
+  color: white;
+  width: 2rem;
+}
+
+.globalWeather, .dayMeteo {
+  height: 50%;
+  background-color: rgba(176, 224, 230, 0.6);
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  margin: 2rem 0;
+  
+
+}
+.weatherIcon {
+  width: 55%;
+}
+.weatherCity {
+  font-size: 20px;
+  padding-bottom: 0.5rem;
+}
+.weatherTemp {
+  font-size: 30px;
+  padding-bottom: 0.3rem;
+}
+.weatherDesc {
+  font-size: 15px;
+  
+}
+.infoWeather, .weekMeteo {
+  background-color: rgba(176, 196, 222, 0.6);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bloc {
+  padding: 1.5rem;
+}
+.bold {
+  font-weight: bold;
+}
