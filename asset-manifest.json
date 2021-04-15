@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MeteoW/static/css/main.c04ac0ae.chunk.css",
+    "main.js": "/MeteoW/static/js/main.53c9f8d5.chunk.js",
+    "main.js.map": "/MeteoW/static/js/main.53c9f8d5.chunk.js.map",
+    "runtime-main.js": "/MeteoW/static/js/runtime-main.10c05664.js",
+    "runtime-main.js.map": "/MeteoW/static/js/runtime-main.10c05664.js.map",
+    "static/js/2.9cf03515.chunk.js": "/MeteoW/static/js/2.9cf03515.chunk.js",
+    "static/js/2.9cf03515.chunk.js.map": "/MeteoW/static/js/2.9cf03515.chunk.js.map",
+    "static/js/3.56bacffc.chunk.js": "/MeteoW/static/js/3.56bacffc.chunk.js",
+    "static/js/3.56bacffc.chunk.js.map": "/MeteoW/static/js/3.56bacffc.chunk.js.map",
+    "index.html": "/MeteoW/index.html",
+    "static/css/main.c04ac0ae.chunk.css.map": "/MeteoW/static/css/main.c04ac0ae.chunk.css.map",
+    "static/js/2.9cf03515.chunk.js.LICENSE.txt": "/MeteoW/static/js/2.9cf03515.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/MeteoW/static/media/pluie.f8c184ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10c05664.js",
+    "static/js/2.9cf03515.chunk.js",
+    "static/css/main.c04ac0ae.chunk.css",
+    "static/js/main.53c9f8d5.chunk.js"
+  ]
+}
